@@ -15,11 +15,11 @@ Les trois conteneurs partagent le réseau Docker `app-network`. Seul le frontend
 
 préparer l'environnement  :
 
+- ouvre votre github dans la vm
+- download le ficher en .zip
+
 ```bash
-git clone https://github.com/halekammoun/Test-Docker.git
-```
-```bash
-cd  Test-Docker
+cd  Downloads/Test-Docker-main
 ```
 ```bash
 bash env.sh
