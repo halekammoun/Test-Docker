@@ -34,7 +34,7 @@ bash env.sh
 - Installer les dépendances Python en utilisant la commande `pip install --no-cache-dir -r requirements.txt`
 - Copier le code de l'application.
 - Documenter le port d'écoute du backend qui est `5000`.
-- Définir la commande de démarrage.
+- Définir la commande de démarrage pour exécuter main.py.
 ### 2. Construire l'image du backend
 - Construisez l'image sous le nom `login-backend` et le tag `1.0`.
 - Vérifiez ensuite sa présence dans la liste des images locales.
